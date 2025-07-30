@@ -1,6 +1,4 @@
 ## 友情提示
-
-快速体验项目：[在线访问地址](未明确实际链接，按原文格式保留)  
 - 用户名: admin  
 - 密码: admin  
 
@@ -19,9 +17,13 @@
 
 
 ## 项目演示  
+<img width="1920" height="894" alt="image" src="https://github.com/user-attachments/assets/53c19884-ceac-4d24-b935-0c3c8d9c521b" />
 
-前端项目地址: [https://github.com/Fu-Huan-Mei/manage-system.git](https://github.com/Fu-Huan-Mei/manage-system.git)  
+<img width="1916" height="951" alt="image" src="https://github.com/user-attachments/assets/5548be65-2988-48f8-9919-53c72d16e60e" />
+<img width="1920" height="708" alt="image" src="https://github.com/user-attachments/assets/ac8574a1-4d66-4e18-8ea3-9a8a9005aa8c" />
+<img width="1916" height="925" alt="image" src="https://github.com/user-attachments/assets/2367c655-9af2-4a34-975e-d8c8c6ab8544" />
+<img width="1916" height="938" alt="image" src="https://github.com/user-attachments/assets/9057d5d3-577d-4234-a462-cc3855df1e1e" />
 
-项目在线演示地址: [http://www.toponlineweb.top](http://www.toponlineweb.top)  
-- 用户名: admin  
-- 密码: admin  
+
+
+
