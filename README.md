@@ -16,6 +16,19 @@
 一个商城后台管理系统的前端项目，基于Vue+Element实现，采用响应式布局方式。主要包含后台面板、商品管理、用户管理、订单管理、管理员管理、系统设置、分销模块、统计报表等功能。  
 
 
+## 技术栈介绍
+Vue3
+Vue Router
+Vuex 
+Element Plus 
+Axios
+ECharts
+GSAP （高性能动画库）
+TinyMCE （功能完善的富文本编辑器）
+VueUse （常用功能函数集）
+Windicss  （CSS 框架）
+Vite
+
 ## 项目演示  
 <img width="1920" height="894" alt="image" src="https://github.com/user-attachments/assets/53c19884-ceac-4d24-b935-0c3c8d9c521b" />
 
