@@ -28,7 +28,7 @@ Vue3、Vue Router、Vuex、Element Plus、 Axios、ECharts、GSAP （高性能�
 <img width="1916" height="938" alt="image" src="https://github.com/user-attachments/assets/9057d5d3-577d-4234-a462-cc3855df1e1e" />
 
 
-##页面布局
+## 页面布局
 .vscode -- Visual Studio Code编辑器的配置文件
 ├── extensions.json -- 全局配置对象
 public -- 根目录的静态文件
