@@ -17,17 +17,7 @@
 
 
 ## 技术栈介绍
-Vue3
-Vue Router
-Vuex 
-Element Plus 
-Axios
-ECharts
-GSAP （高性能动画库）
-TinyMCE （功能完善的富文本编辑器）
-VueUse （常用功能函数集）
-Windicss  （CSS 框架）
-Vite
+Vue3、Vue Router、Vuex、Element Plus、 Axios、ECharts、GSAP （高性能动画库）、TinyMCE （功能完善的富文本编辑器）、VueUse （常用功能函数集）、Windicss（CSS 框架）、Vite
 
 ## 项目演示  
 <img width="1920" height="894" alt="image" src="https://github.com/user-attachments/assets/53c19884-ceac-4d24-b935-0c3c8d9c521b" />
